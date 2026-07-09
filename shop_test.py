@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 17 23:29:59 2026
-
-@author: faaiz
-"""
-
 user_money = 15
 final_buyable_item = [
     #[item, price, id]
